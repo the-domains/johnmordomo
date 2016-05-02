@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[johnmordomo]]></title>
-        <description><![CDATA[johnmordomo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[John Mordomo]]></title>
+        <description><![CDATA[John Mordomo]]></description>
+        <link>https://thegrid.ai/johnmordomo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 19:01:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 19:10:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnmordomo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined50c4c8c1-4ca2-4992-957a-5aa6da6e196f/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/229ce39e-9f01-4bfe-9e0a-ff03d687aa63.jpg">]]></description>
+            <link>https://thegrid.ai/johnmordomo/50c4c8c1-4ca2-4992-957a-5aa6da6e196f/index.html</link>
             <guid isPermaLink="false">50c4c8c1-4ca2-4992-957a-5aa6da6e196f</guid>
-            <pubDate>Mon, 02 May 2016 19:01:03 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 19:10:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
