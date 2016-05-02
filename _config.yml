@@ -1,0 +1,28 @@
+name: johnmordomo
+favicon: null
+layout_spectrum: 0.7842086206655949
+typography_spectrum: 0.14757471275515854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8622625337447971
+  lightness: 0.5687579826917499
+  saturation: 0.9097595605999231
+  rhythmicContrast: 0.12064878293313086
+purpose: []
